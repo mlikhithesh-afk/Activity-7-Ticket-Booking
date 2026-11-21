@@ -67,4 +67,4 @@ _Add screenshots of the desktop and mobile layouts here._
 
 Repository: `Activity-7-Ticket-Booking`
 
-URL: _To be added after the project is published._
+URL: https://github.com/mlikhithesh-afk/Activity-7-Ticket-Booking
